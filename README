@@ -1,0 +1,5 @@
+troffonline allows you to render a troff web page directly in the url.
+Just copy paste the url in the input !
+
+You'll need a working groff because everything is actually done by
+it in the background.
